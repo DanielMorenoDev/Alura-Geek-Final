@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Macbook Air M1 13 Pulgadas",
+      "precio": "12,999",
+      "imagen": "assets/img/airm113.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Macbook Air M2 13 Pulgadas",
+      "precio": "22,999",
+      "imagen": "assets/img/airm213.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Macbook Air M2 15 Pulgadas",
+      "precio": "29,999",
+      "imagen": "assets/img/airm215.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Macbook Air M3 13 Pulgadas",
+      "precio": "35,999",
+      "imagen": "assets/img/wairm313.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Macbook Air M3 15 Pulgadas",
+      "precio": "38,999",
+      "imagen": "assets/img/airm315.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Macbook Pro M1 13 Pulgadas",
+      "precio": "37,999",
+      "imagen": "assets/img/prom113.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Macbook Pro M2 13 Pulgadas",
+      "precio": "45,999",
+      "imagen": "assets/img/prom213.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "Macbook Pro M3 13 Pulgadas",
+      "precio": "56,999",
+      "imagen": "assets/img/prom313.jpg"
+    }
+  ]
+}
